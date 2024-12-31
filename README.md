@@ -31,13 +31,13 @@ To run **Barbeque** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/user-kartik/Barbeque.git
+sudo git clone https://github.com/user-kartik/Barbeque.github.io.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/user-kartik/Barbeque.git
+git clone https://github.com/user-kartik/Barbeque.github.io.git
 ```
 
 
